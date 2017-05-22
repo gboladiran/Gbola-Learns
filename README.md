@@ -3,4 +3,4 @@
 Hello World
 
 I am from Nigeria, here as a complete novice and I hope to learn all the way, against all odds.
-I will be learning coding online while working, hopefully I will keep up with set challenges.
+I will be learning coding online while working, hopefully I will be able keep up with set challenges.
